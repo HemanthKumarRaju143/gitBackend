@@ -8,6 +8,7 @@ public class GitPractiseBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitPractiseBackendApplication.class, args);
+		System.out.println("spring boot");
 	}
 
 }
